@@ -4,7 +4,11 @@ Code Black's crew-health dashboard for the 2026 NASA Space Apps Challenge.
 
 ## Run and demonstrate
 
-Open index.html in Edge or Chrome. No install or build is required. Choose an indicator in Simulated mission, then log a check-in and export your local history. Use fictional readings in public demos. Browser-local storage is unencrypted and clearing site data removes records.
+1. Open index.html in Edge or Chrome.
+2. No install or build is required.
+3. Choose an indicator in Simulated mission, then log a check-in and export your local history.
+4. Use fictional readings in public demos.
+5. Browser-local storage is unencrypted and clearing site data removes records.
 
 ## Design and current scope
 
