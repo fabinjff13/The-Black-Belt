@@ -24,7 +24,3 @@ The radiation panel links to NASA's historical ISS DosTel1 archive. Importing da
 Create a repository under your team account. Upload all files from this directory to the main branch. Enable [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) from the branch root for a hosted demo. Check both URLs in a private browser window.
 
 The Bangladesh guide requests publicly accessible source and documentation with the project journey, video, and poster links. It describes a 240-second local presentation and a 30-second video for the NASA project page. Confirm the local upload process with your Local Lead. Verify the supplied video's duration and visibility before submitting it. Add the team's actual build notes and poster when available.
-
-## AI assistance
-
-OpenAI Codex generated the starter dashboard, synthetic data, and README. The prompt provided the team concept and challenge brief and requested project source suitable for GitHub. Code Black supplied the project name, wearable design and sensor plan, NASA source links, and concept video. Update this disclosure as the team develops and tests the prototype.
